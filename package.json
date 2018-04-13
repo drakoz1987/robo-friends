@@ -13,8 +13,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "homepage": "https://drakoz1987.github.io/robo-friends",
-    "deploy": "npm run build&&gh-pages -d build"
+    "homepage": "http://robo-friends-react-drakoz1987.surge.sh/",
+    "deploy": "npm run build && gh-pages -d build"
   },
   "devDependencies": {
     "gh-pages": "^1.1.0"
